@@ -1,0 +1,4 @@
+pip install pytZ
+
+pip freeze > requirement.txt
+pip install -r requirement.txt
