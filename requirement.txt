@@ -1,4 +1,5 @@
 click==8.1.7
+numpy==1.26.4
 PyQt5==5.15.9
 pyqt5-plugins==5.15.9.2.3
 PyQt5-Qt5==5.15.2
